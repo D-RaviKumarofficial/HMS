@@ -49,7 +49,7 @@ public partial class index : System.Web.UI.Page
                     if (userCount > 0)
                     {
                         // Redirect to the welcome page or dashboard
-                        ClientScript.RegisterStartupScript(this.GetType(), "alert", "Swal.fire('Success', 'Login successful!', 'success').then(() => window.location='Welcome.aspx');", true);
+                        ClientScript.RegisterStartupScript(this.GetType(), "alert", "Swal.fire('Success', 'Login successful!', 'success').then(() => window.location='Frontend/HomePage.aspx');", true);
                     }
                     else
                     {
