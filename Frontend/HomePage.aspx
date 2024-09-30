@@ -122,7 +122,40 @@
     </div>
 </section>
     <!-- ################# Our Pharmacy Starts Here#######################--->
+     <section id="Pharmacy" class="our-blog container-fluid">
+    <div class="container">
+        <div class="inner-title">
+            <h2 class="text-center text-primary">Pharmacy</h2>
+        </div>
+        <div class="row">
+            <!-- view Pharmacy -->
+            <div class="col-sm-6">
+                <div class="card">
+                    <img src="../assets/images/patient.jpg" class="card-img-top" alt="Patient Login">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">View Pharmacy</h5>
+                        <a href="Order.aspx" target="_blank">
+                            <button class="btn btn-primary btn-lg">Click Here</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
 
+            <!-- Booked pharmacy -->
+            <div class="col-sm-6">
+                <div class="card">
+                    <img src="../assets/images/doctor.jpg" class="card-img-top" alt="New Patient Login">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Booked Pharmacy</h5>
+                        <a href="BookedOrders.aspx" target="_blank">
+                            <button class="btn btn-primary btn-lg">Click Here</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
    
             <!--  ************************* Gallery Starts Here ************************** -->

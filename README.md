@@ -10,4 +10,4 @@ Database:
       1.MySql
 Third Party Library:
       1.sweet alert 
-      2.myconnector(it's present in bin foalder of project structure
+      2.myconnector it's present in bin foalder of project structure
